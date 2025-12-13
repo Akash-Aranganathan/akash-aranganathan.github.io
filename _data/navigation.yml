@@ -12,7 +12,7 @@ main:
     url: /publications/
   
   - title: "CV"
-    url: /cv/
+    url: <embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
     
   - title: "Thoughts/Tutorials"
     url: /teaching/
