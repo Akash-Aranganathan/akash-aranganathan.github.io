@@ -12,7 +12,8 @@ main:
     url: /publications/
   
   - title: "CV"
-    url: <embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
+    url: https://drive.google.com/file/d/1EbPBpj5IRyCshqwqqycQgO8ywAF7Z0N_/view
+    #url: <embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
     
   - title: "Thoughts/Tutorials"
     url: /teaching/
