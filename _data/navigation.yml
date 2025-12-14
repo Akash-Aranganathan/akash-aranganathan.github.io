@@ -20,10 +20,13 @@ main:
     #url: <embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
     
   - title: "Tutorials"
-    url: /teaching/
+    url: /tutorials/
   
-  - title: "Work Experience"
+  - title: "Experience"
     url: /workexp/
+    
+  - title: "Achievements"
+    url: /achievements/
     
  # - title: "Talks"
  #   url: /talks/    
