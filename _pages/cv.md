@@ -42,5 +42,13 @@ Work experience
   * Title: Molecular Mechanism of multi-domain protein Malate synthase G using in silico methods of unfolding /refolding
   * Supervisor: Prof. Tapan K. Chaudhuri
 
+Teaching experience
+======
+
+* Teaching Assistant for Discrete Math for Life Science at University of Maryland, College Park (Spring 2022)
+* Teaching Assistant for Discrete Math for Life Science at University of Maryland, College Park (Fall 2021)
+* Teaching Assistant for Food Biotechnology at Indian Institute of Technology, Madras (Spring 2021)
+
+
 
 
