@@ -14,6 +14,12 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Experience"
+    url: /workexp/
+    
+  - title: "Achievements"
+    url: /achievements/
   
   - title: "CV"
     url: 'https://drive.google.com/file/d/1EbPBpj5IRyCshqwqqycQgO8ywAF7Z0N_/view'
@@ -21,29 +27,4 @@ main:
     
   - title: "Tutorials"
     url: /tutorials/
-  
-  - title: "Experience"
-    url: /workexp/
     
-  - title: "Achievements"
-    url: /achievements/
-    
- # - title: "Talks"
- #   url: /talks/    
-
- # - title: "Teaching"
- #   url: /teaching/    
-    
- # - title: "Portfolio"
- #   url: /portfolio/
-        
- # - title: "Blog Posts"
- #   url: /year-archive/
-    
-
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
- # - title: "Guide"
- #   url: /markdown/
